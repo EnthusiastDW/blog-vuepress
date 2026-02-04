@@ -1,0 +1,31 @@
+---
+title: Excel
+date: 2021-10-27 23:33:50
+permalink: /pages/b457ab/
+categories:
+  - excel
+tags:
+  - excel
+author: 
+  name: Zealot DW
+  link: https://github.com/EnthusiastDW
+---
+#### **1. 字符串相关**
+
+```vb
+Substitute(文本, 被替换文本，替换文本，[被替换文本序号]) //可以嵌套/多次使用替换多个不同的字符串
+REPLACE(oldText,start_num, char_num, newText)
+LEFT或RIGHT从左或右截取指定长度的字符
+MID从指定位置开始截取定长字符
+concat链接多个字符串
+exact比较两个字符串是否相等
+```
+
+#### **2.日期操作**
+
+```vb
+=DATEDIF(D1,"2018-11-22","y")
+```
+
+
+
