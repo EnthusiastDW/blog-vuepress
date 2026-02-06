@@ -19,7 +19,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     '/': {
       lang: 'zh-CN',
       title: "Great Deng的博客",
-      description: '程序开发相关技术博客，包含Java、前端、MySQL、04.MQ、Redis、服务器等技术文章。',
+      description: '程序开发相关技术博客，包含Java、前端、MySQL、MQ、Redis、服务器等技术文章。',
     }
   },
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
