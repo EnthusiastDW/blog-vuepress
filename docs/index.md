@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: DW's blog
+heroText: Great Deng的博客
 tagline: 有志者事竟成
 # actionText: 立刻进入 →
 # actionLink: /web/
@@ -12,14 +12,18 @@ features: # 可选的
     details: Java语言相关技术
     link: /java/ # 可选
     imgUrl: /img/java.png # 可选
-  - title: 
-    details: 中间件
+  - title: 中间件
+    details: 中间件相关文档、总结、面试题等
     link: /middleware/
+    imgUrl: /img/more.png
+  - title: 前端
+    details: 前端相关文章、笔记和总结
+    link: /front/
     imgUrl: /img/ui.png
-  - title: 技术
-    details: 技术文档、教程、技巧、总结等文章
-    link: /tech/
-    imgUrl: /img/other.png
+#  - title: 技术
+#    details: 技术文档、教程、技巧、总结等文章
+#    link: /tech/
+#    imgUrl: /img/other.png
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
