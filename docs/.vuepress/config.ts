@@ -32,7 +32,9 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         text: 'Java', link: '/java/',
         items: [
-          {text: '代码片段', link: '/pages/b19ae9/'},
+          {text: '代码片段', link: '/pages/java-io-code-phrase/'},
+          {text: '源码阅读', link: '/pages/spi-apply-in-logger-api/'},
+          {text: 'Spring AI', link: '/pages/spring-ai/'},
         ]
       },
       {
